@@ -4,7 +4,7 @@
 ## 1. ERIC MAWIRA - ericjazmawira@gmail.com
 ## 2. JOSEPH ADDAE - jkaddae123@gmail.com
 
-This project defines the **relational database schema** for a Kenyan-centric e-commerce platform, designed to support diverse products, variations, and localized branding.
+This project defines the **relational database schema** for a African-centric e-commerce platform, designed to support diverse products, variations, and localized branding.
 
 ## Overview
 
@@ -73,7 +73,7 @@ Examples include:
 
 ## Usage
 
-This database can be used in any backend system requiring robust product management with Kenyan market relevance. Import the schema into platforms like:
+This database can be used in any backend system requiring robust product management with Kenyan and african  market relevance. Import the schema into platforms like:
 
 - MySQL or MariaDB
 - PostgreSQL (with slight syntax tweaks)
@@ -92,6 +92,6 @@ This database can be used in any backend system requiring robust product managem
 ## Created
 
 **April 2025**  
-Designed with ❤️ for the Kenyan digital marketplace.
---- @ericjaz
+Designed with for the Kenyan African digital marketplace.
+
 
